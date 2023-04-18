@@ -9,3 +9,8 @@ I'm Nutika!!
  
  📫 How to reach me: nutikakumar123@gmail.com
 
+[![Nutika's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nutika16&theme=react)](https://github.com/nutika16/github-readme-activity-graph)
+
+![Nutika's github stats](https://github-readme-stats2-blush.vercel.app/api?username=nutika16&theme=react&showicons=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nutika16&theme=react)](https://git.io/streak-stats)
