@@ -11,6 +11,8 @@ I'm Nutika!!
 
 [![Nutika's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nutika16&theme=react)](https://github.com/nutika16/github-readme-activity-graph)
 
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nutika16&theme=react&line_height=40&hide=css"/> </a>
+
 ![Nutika's github stats](https://github-readme-stats2-blush.vercel.app/api?username=nutika16&theme=react&showicons=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nutika16&theme=react)](https://git.io/streak-stats)
