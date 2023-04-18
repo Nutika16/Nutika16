@@ -8,6 +8,8 @@ I'm Nutika!!
  💬 Ask me about HTML,CSS,C,C++,SHELL SCRIPTING. 
  
  📫 How to reach me: nutikakumar123@gmail.com
+ 
+ 📝 About my experience https://linktr.ee/Nutika
 
 [![Nutika's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nutika16&theme=react)](https://github.com/nutika16/github-readme-activity-graph)
 
