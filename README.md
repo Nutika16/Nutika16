@@ -1,15 +1,15 @@
-Hi there 👋
-I'm Nutika!!
 
- 🌱 I’m currently Leaning Java.
+<h1 align="center">Nutika💫</h1>
+
+ - 🌱 I’m currently Leaning Java.
  
- 👨‍💻 All of my projects are available at https://github.com/Nutika16
+ - 👨‍💻 All of my projects are available at https://github.com/Nutika16
  
- 💬 Ask me about HTML,CSS,C,C++,SHELL SCRIPTING,Java. 
+ - 💬 Ask me about HTML,CSS,C,C++,SHELL SCRIPTING,Java. 
  
- 📫 How to reach me: nutikakumar123@gmail.com
+ - 📫 How to reach me: nutikakumar123@gmail.com
  
- 📝 About my experience https://linktr.ee/Nutika
+ - 📝 About my experience https://linktr.ee/Nutika
 
 <!--[![Nutika's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nutika16&theme=react)](https://github.com/nutika16/github-readme-activity-graph)-->
 
