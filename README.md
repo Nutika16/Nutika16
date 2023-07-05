@@ -5,13 +5,15 @@ I'm Nutika!!
  
  👨‍💻 All of my projects are available at https://github.com/Nutika16
  
- 💬 Ask me about HTML,CSS,C,C++,SHELL SCRIPTING. 
+ 💬 Ask me about HTML,CSS,C,C++,SHELL SCRIPTING,Java. 
  
  📫 How to reach me: nutikakumar123@gmail.com
  
  📝 About my experience https://linktr.ee/Nutika
 
-[![Nutika's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nutika16&theme=react)](https://github.com/nutika16/github-readme-activity-graph)
+<!--[![Nutika's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nutika16&theme=react)](https://github.com/nutika16/github-readme-activity-graph)-->
+
+[![Nutika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nutika16&theme=react)](https://github.com/nutika16/github-readme-activity-graph)
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nutika16&theme=react&line_height=40&hide=css"/> </a>
 
