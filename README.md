@@ -22,6 +22,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nutika16&theme=react)](https://git.io/streak-stats)
 
-<b style="align:Center"> Nutika's Contribution Graph </b>
+<b align="Center"> Nutika's Contribution Graph </b>
 ![Snake animation](https://github.com/Nutika16/Nutika16/blob/output/github-contribution-grid-snake.svg) 
 
