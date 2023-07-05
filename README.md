@@ -21,4 +21,3 @@ I'm Nutika!!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nutika16&theme=react)](https://git.io/streak-stats)
 
-![snake gif](https://github.com/nutika16/nutika16/blob/output/github-contribution-grid-snake.svg)
