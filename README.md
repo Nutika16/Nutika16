@@ -1,5 +1,6 @@
 
 <h1 align="center">Nutika💫</h1>
+<p> <img src="https://komarev.com/ghpvc/?username=Nutika16&label=Profile%20views&color=0e19b4&style=flat-square" alt="nutika16"/> </p>
 
  - 🌱 I’m currently Leaning Java.
  
