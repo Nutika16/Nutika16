@@ -36,15 +36,17 @@
 
 ![Nutika's github stats](https://github-readme-stats2-blush.vercel.app/api?username=nutika16&theme=react&showicons=true)
 
+<hr>
+
 [![Nutika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nutika16&theme=react)](https://github.com/nutika16/github-readme-activity-graph)
 
+<hr>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nutika16&theme=react)](https://git.io/streak-stats)
 
 <b align="center">Nutika's contribution Graph</b>
 ![Snake animation](https://github.com/Nutika16/Nutika16/blob/output/github-contribution-grid-snake.svg) 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <!--Profile trophy-->
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nutika16" alt="nutika16" /></a> </p>-->
