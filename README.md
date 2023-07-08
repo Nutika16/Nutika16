@@ -1,6 +1,6 @@
 
 <h1 align="center">Nutika💫</h1>
-<h2 align="center"> Driven to acquire new skills  </h2>
+<h2 align="center">  BE CSE Student driven to acquire new skills  </h2>
 <p> <img src="https://komarev.com/ghpvc/?username=Nutika16&label=Profile%20views&color=0e19b4&style=flat-square" alt="nutika16"/> </p>
 
  - 🌱 I’m currently Leaning Java.
