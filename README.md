@@ -35,7 +35,7 @@
 
 <hr>
 
-
+[![Nutika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nutika16&theme=react)](https://github.com/nutika16/github-readme-activity-graph)
 
 <hr>
 
