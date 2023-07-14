@@ -48,7 +48,7 @@
 
 <hr>
 
-<b align="center" Snake Animation Game</b>
+<b align="center" Snake Animation Game </b>
 
 ![Snake animation](https://github.com/Nutika16/Nutika16/blob/output/github-contribution-grid-snake.svg) 
 
