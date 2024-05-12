@@ -8,7 +8,7 @@
  
  - 👨‍💻 All of my projects are available at https://github.com/Nutika16.
  
- - 💬 Ask me about HTML, CSS, C, C++, SHELL SCRIPTING, Java. 
+ - 💬 Ask me about HTML, CSS, Javascript, SHELL SCRIPTING, Java, Node.js, Express.js, React, MySQL, MongoDB, Linux, Java Swing , Java AWT. 
  
  - 📫 How to reach me: nutikakumar123@gmail.com
  
