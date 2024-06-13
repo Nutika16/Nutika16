@@ -53,5 +53,5 @@
 
 <!--![Snake animation](https://github.com/Nutika16/Nutika16/blob/output/github-contribution-grid-snake.svg) -->
 
-<!--Profile trophy-->
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nutika16" alt="nutika16" /></a> </p>-->
+Profile trophy
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nutika16" alt="nutika16" /></a> </p>
