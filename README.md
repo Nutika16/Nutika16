@@ -72,5 +72,5 @@
 ---
 
 <!-- Optional: Snake animation -->
-![Snake animation](https://raw.githubusercontent.com/Nutika16/Nutika16/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://raw.githubusercontent.com/Nutika16/Nutika16/output/github-contribution-grid-snake.svg) -->
 
