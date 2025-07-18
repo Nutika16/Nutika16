@@ -72,4 +72,4 @@
 ---
 
 <!-- Optional: Snake animation -->
-<!-- ![Snake animation](https://github.com/Nutika16/Nutika16/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/Nutika16/Nutika16/blob/output/github-contribution-grid-snake.svg) 
