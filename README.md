@@ -31,31 +31,31 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <!-- Programming Languages -->
+  <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 
-  <!-- Web Dev Frameworks -->
+  <!-- Web Development -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
 
-  <!-- Tools & Platforms -->
+  <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" />
 
-  <!-- Cybersecurity Tools (custom fallback icons) -->
-  <img src="https://github.com/Nutika16/Nutika16/assets/your-github-id/your-wireshark-icon.png" alt="Wireshark" width="40" />
-  <img src="https://github.com/Nutika16/Nutika16/assets/your-github-id/your-veracrypt-icon.png" alt="Veracrypt" width="40" />
+  <!-- Cybersecurity Tools (external icons) -->
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" />
   <img src="https://img.icons8.com/ios-filled/50/console.png" alt="Shell Scripting" width="40" />
 </p>
 
