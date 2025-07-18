@@ -1,55 +1,60 @@
+<h1 align="center">Nutika 💫</h1>
+<h2 align="center">Computer Science Engineering Graduate | Passionate about Cybersecurity, Web Development & Java 🚀</h2>
 
-<h1 align="center">Nutika💫</h1>
-<h2 align="center">  BE CSE Student driven to acquire new skills ✨ </h2>
-
-<p> <img src="https://komarev.com/ghpvc/?username=Nutika16&label=Profile%20views&color=0e19b4&style=flat-square" alt="nutika16"/> </p>
-
- - 🌱 I’m currently working on different projects.
- 
- - 👨‍💻 All of my projects are available at https://github.com/Nutika16.
- 
- - 💬 Ask me about HTML, CSS, Javascript, SHELL SCRIPTING, Java, Node.js, Express.js, React, MySQL, MongoDB, Linux, Java, Swing, Java AWT. 
- 
- - 📫 How to reach me: nutikakumar123@gmail.com
-
-   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nutika kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nutika kumar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nutika kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nutika kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/nutika_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nutika_kumar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nutika" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nutika" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nutika kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nutika kumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nutika_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nutika_123" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nutikakumar123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nutikakumar123" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nutika16&label=Profile%20views&color=0e19b4&style=flat-square" alt="Nutika16" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🎓 Computer Science Engineering graduate from **Chitkara University**, CGPA: 8.86  
+- 💻 Passionate about **cybersecurity**, **web development**, and **Java**  
+- 🛡️ Completed 3-month **Cybersecurity training with Wipro** – focused on data, network & infrastructure security  
+- 👩‍💻 Built projects like **ATM Simulator**, **HashBuster (Password Cracking Tool)**, and interactive web apps  
+- 🌐 Actively exploring modern tech stacks – React.js, Node.js, Express, MongoDB  
+- 🧠 Strong in tools like **Wireshark, Veracrypt, FTK Imager, Autopsy, Linux**, and more  
+- 🤝 Former **President of Bits 'N' Bytes Club**, and **Public Relations Head of IEEE-CIET**  
+- 📫 Reach me at: nutikakumar123@gmail.com  
 
+---
 
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/nutika-kumar-/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" /></a>
+  <a href="https://stackoverflow.com/users/nutika kumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="30" /></a>
+  <a href="https://instagram.com/nutika_kumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" /></a>
+  <a href="https://www.codechef.com/users/nutika" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="30" /></a>
+  <a href="https://www.hackerrank.com/nutika kumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" /></a>
+  <a href="https://www.leetcode.com/nutika_123" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/nutikakumar123" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" width="30" /></a>
+</p>
 
+---
 
-<!--[![Nutika's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nutika16&theme=react)](https://github.com/nutika16/github-readme-activity-graph)-->
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+</p>
 
-<hr>
+---
 
-[![Nutika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nutika16&theme=react)](https://github.com/nutika16/github-readme-activity-graph)
+[![Nutika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nutika16&theme=react)](https://github.com/Nutika16/github-readme-activity-graph)
 
-<hr>
+<a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nutika16&theme=react&line_height=40&hide=css"/></a>
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nutika16&theme=react&line_height=40&hide=css"/> </a>
+![Nutika's GitHub stats](https://github-readme-stats2-blush.vercel.app/api?username=Nutika16&theme=react&showicons=true)
 
-![Nutika's github stats](https://github-readme-stats2-blush.vercel.app/api?username=nutika16&theme=react&showicons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nutika16&theme=react)](https://git.io/streak-stats)
 
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nutika16&theme=react)](https://git.io/streak-stats)
-
-<hr>
-
-
-
+<!-- Optional: Snake animation -->
 <!-- ![Snake animation](https://github.com/Nutika16/Nutika16/blob/output/github-contribution-grid-snake.svg) -->
-
-<!-- <h1> Profile trophy</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nutika16" alt="nutika16" /></a> </p> -->
