@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Nutika16&label=Profile%20views&color=0e19b4&style=flat-square" alt="Nutika16" />
 </p>
 
-- 🎓 Computer Science Engineering graduate from **Chitkara University**, CGPA: 8.86  
+- 🎓 Computer Science Engineering graduate from **Chitkara University**. 
 - 💻 Passionate about **cybersecurity**, **web development**, and **Java**  
 - 🛡️ Completed 3-month **Cybersecurity training with Wipro** – focused on data, network & infrastructure security  
 - 👩‍💻 Built projects like **ATM Simulator**, **HashBuster (Password Cracking Tool)**, and interactive web apps  
