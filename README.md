@@ -1,65 +1,91 @@
-<h1 align="center">Nutika 💫</h1>
-<h2 align="center">Computer Science Engineering Graduate | Passionate about Cybersecurity, Web Development & Java 🚀</h2>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#FFB6C1;">Nutika</span> 💫</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nutika16&label=Profile%20views&color=0e19b4&style=flat-square" alt="Nutika16" />
-</p>
-
-- 🎓 Computer Science Engineering graduate from **Chitkara University**. 
-- 💻 Passionate about **cybersecurity**, **web development**, and **Java**  
-- 🛡️ Completed 3-month **Cybersecurity training with Wipro** – focused on data, network & infrastructure security  
-- 👩‍💻 Built projects like **ATM Simulator**, **HashBuster (Password Cracking Tool)**, and interactive web apps  
-- 🌐 Actively exploring modern tech stacks – React.js, Node.js, Express, MongoDB  
-- 🧠 Strong in tools like **Wireshark, Veracrypt, FTK Imager, Autopsy, Linux**, and more  
-- 🤝 Former **President of Bits 'N' Bytes Club**, and **Public Relations Head of IEEE-CIET**  
-- 📫 Reach me at: nutikakumar123@gmail.com  
+🎓 **Computer Science Graduate** | 💻 **Cybersecurity & Java Enthusiast** | ☁️ **Cloud Learner** | 🔍 **Aspiring QA Tester**
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 👩‍💻 About Me
+
+- 🎓 Recently graduated with a **B.Tech in Computer Science**.  
+- 🌱 Currently **working on my skills** in:
+  - **Core Java** & **DSA** for problem-solving  
+  - **Cybersecurity** (trained in security fundamentals & tools)  
+  - **Postman** for **manual testing** and API validation  
+  - **Automation scripting** using **Java**  
+  - **AWS** for **cloud computing** concepts and deployment  
+  - **Oracle SQL** for **database management & manipulation**  
+- 💼 Open to opportunities in:
+  - 🛡️ **Cybersecurity**
+  - ☕ **Java Developer**
+  - 🧪 **QA / Automation Tester**
+  - ☁️ **Cloud Engineering (AWS)**
+- 💡 Passionate about learning, experimenting with new technologies, and building projects that solve real-world problems.  
+- 📘 I’ve created a **Java Crash Course Repository** for interview prep — a structured way to revise all core topics + practice coding questions.  
+  🔗 [Java Crash Course for Interview Prep](https://github.com/Nutika16/Java-Crash-Course-For-Interview-Prep)
+
+---
+
+### 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/nutika-kumar-/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" /></a>
-  <a href="https://stackoverflow.com/users/nutika kumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="30" /></a>
-  <a href="https://instagram.com/nutika_kumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" /></a>
-  <a href="https://www.codechef.com/users/nutika" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="30" /></a>
-  <a href="https://www.hackerrank.com/nutika kumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" /></a>
-  <a href="https://www.leetcode.com/nutika_123" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/nutikakumar123" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" width="30" /></a>
+<a href="https://stackoverflow.com/users/nutika kumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="30" /></a>
+<a href="https://instagram.com/nutika_kumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" /></a>
+<a href="https://www.codechef.com/users/nutika" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="30" /></a>
+<a href="https://www.hackerrank.com/nutika kumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" /></a>
+<a href="https://www.leetcode.com/nutika_123" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nutikakumar123" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" width="30" /></a>
 </p>
 
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
+
 <p align="left">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 
-  <!-- Web Development -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
+<!-- Core Programming -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
 
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" />
+<!-- Web Development -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
 
-  <!-- Cybersecurity Tools (external icons) -->
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" />
-  <img src="https://img.icons8.com/ios-filled/50/console.png" alt="Shell Scripting" width="40" />
+<!-- Tools -->
+<img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />
+
+<!-- Database -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
+<img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle SQL" width="40" />
+
+<!-- Cloud & Security -->
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" />
+<img src="https://img.icons8.com/ios-filled/50/console.png" alt="Shell Scripting" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721279.png" alt="Cyber Security" width="40" />
+
+<!-- Operating Systems -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
+
 </p>
 
 ---
+
+### 💡 Currently Working On
+
+- ⚙️ Improving **Java & DSA** problem-solving skills  
+- ☁️ Learning **AWS** cloud fundamentals  
+- 🧪 Writing **API test scripts** using **Postman + Java**  
+- 🛡️ Strengthening knowledge in **cybersecurity & ethical practices**  
+- 🗄️ Working with **Oracle SQL** for query optimization and database handling  
+- 🧠 Exploring **automation testing** and basic **framework scripting**
+
+---
+
+### 📈 GitHub Analytics
 
 [![Nutika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nutika16&theme=react)](https://github.com/Nutika16/github-readme-activity-graph)
 
@@ -71,6 +97,22 @@
 
 ---
 
-<!-- Optional: Snake animation -->
-<!-- ![Snake animation](https://raw.githubusercontent.com/Nutika16/Nutika16/output/github-contribution-grid-snake.svg) -->
+### 💼 Looking For
 
+🌟 **Entry-level roles / internships** in:
+- 🛡️ Cybersecurity  
+- ☕ Java Development  
+- 🧪 QA / Automation Testing  
+- ☁️ Cloud (AWS)  
+- 🗄️ Database Management  
+
+> I’m passionate about contributing to real-world projects, learning from industry professionals, and continuously improving my skills.
+
+---
+
+### 🌟 Quote That Inspires Me
+> “The expert in anything was once a beginner.” — Helen Hayes  
+
+---
+
+✨ *Thanks for visiting my profile! Let’s connect and grow together!* 💬
