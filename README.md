@@ -20,8 +20,6 @@
   - 🧪 **QA / Automation Tester**
   - ☁️ **Cloud Engineering (AWS)**
 - 💡 Passionate about learning, experimenting with new technologies, and building projects that solve real-world problems.  
-- 📘 I’ve created a **Java Crash Course Repository** for interview prep — a structured way to revise all core topics + practice coding questions.  
-  🔗 [Java Crash Course for Interview Prep](https://github.com/Nutika16/Java-Crash-Course-For-Interview-Prep)
 
 ---
 
