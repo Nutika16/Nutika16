@@ -90,8 +90,8 @@
 <a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nutika16&theme=react&line_height=40&hide=css"/></a>
 
 ![Nutika's GitHub stats](https://github-readme-stats2-blush.vercel.app/api?username=Nutika16&theme=react&showicons=true)
-  
-[![Nutika's GitHub Streak](https://streak-stats.demolab.com?user=Nutika16&theme=react)](https://streak-stats.demolab.com)
+
+<img alt="Nutika's GitHub Streak" src="https://streak-stats.demolab.com?user=Nutika16&theme=react" />
 
 
 ---
