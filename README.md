@@ -91,7 +91,7 @@
 
 ![Nutika's GitHub stats](https://github-readme-stats2-blush.vercel.app/api?username=Nutika16&theme=react&showicons=true)
 
-<img alt="Nutika's GitHub Streak" src="https://streak-stats.demolab.com?user=Nutika16&theme=react" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nutika16&theme=react)](https://git.io/streak-stats) 
 
 
 ---
