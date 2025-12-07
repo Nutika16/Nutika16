@@ -14,8 +14,7 @@
   - **Automation scripting** using **Java**  
   - **AWS** for **cloud computing** concepts and deployment  
   - **Oracle SQL** for **database management & manipulation**  
-  - **Python** for **backend**
- 
+
 
 - 💼 Open to opportunities in:
   - 🛡️ **Cybersecurity**
