@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#FFB6C1;">Nutika</span> 💫</h1>
 
-🎓 **Computer Science Graduate** | 💻 **Cybersecurity & Java Enthusiast** | ☁️ **Cloud Learner** | 🔍 **Aspiring QA Tester** | Python Developer
+🎓 **Computer Science Graduate** | 💻 **Cybersecurity & Java Enthusiast** | ☁️ **Cloud Learner** | 🔍 **Aspiring QA Tester** | **Python Developer**
 
 ---
 
