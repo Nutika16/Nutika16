@@ -87,14 +87,6 @@
 
 ### 📈 GitHub Analytics
 
-[![Nutika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nutika16&theme=react)](https://github.com/Nutika16/github-readme-activity-graph)
-
-<a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nutika16&theme=react&line_height=40&hide=css"/></a>
-
-![Nutika's GitHub stats](https://github-readme-stats2-blush.vercel.app/api?username=Nutika16&theme=react&showicons=true)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nutika16&theme=react)](https://git.io/streak-stats) 
 
 
 ---
